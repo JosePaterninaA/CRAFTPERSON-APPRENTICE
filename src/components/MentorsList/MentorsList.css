@@ -1,0 +1,30 @@
+.mentors-wrapper {
+  padding-right: 10px;
+  padding-left: 10px;
+  flex-grow: 1;
+}
+
+@media all and (max-width: 576px) {
+  .mentors-wrapper {
+    position: relative;
+    background: #fff;
+    transform: translateY(0);
+    transition: transform .3s ease;
+  }
+
+  .mentors-wrapper.active {
+    transform: translateY(190px);
+    margin-bottom: 50px;
+  }
+}
+
+.mentors-wrapper > .mentors-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.nothing-to-show {
+  font-size: 20px;
+  line-height: 1.6;
+}

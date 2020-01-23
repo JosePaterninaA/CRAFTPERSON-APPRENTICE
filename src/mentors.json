@@ -1,0 +1,339 @@
+[
+  {
+    "id": "mas_badar@codurance.com",
+    "name": "Mashooq Badar",
+    "avatar": "https://codurance.com/assets/custom/img/team/mash_badar.jpg",
+    "title": "Software Craftsman and Co-Founder",
+    "description": "Software Craftsman and Co-Founder",
+    "tags": [
+      "java",
+      "clojure"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "mashooq"
+      }
+    ]
+  },
+  {
+    "id": "sandro_mancuso@codurance.com",
+    "name": "Sandro Mancuso",
+    "avatar": "https://codurance.com/assets/custom/img/team/sandro_mancuso.jpg",
+    "title": "Software Craftsman and Co-Founder",
+    "description": "Software craftsman, author, and founder of the London Software Craftsmanship Community (LSCC).",
+    "tags": [
+      "Java",
+      "Clojure",
+      "Scala",
+      "html",
+      "css"
+    ],
+    "channels": [
+      {
+        "type": "email",
+        "id": "sandro.mancuso@codurance.com"
+      },
+      {
+        "type": "twitter",
+        "id": "sandromancuso"
+      },
+      {
+        "type": "linkedin",
+        "id": "sandromancuso"
+      }
+    ]
+  },
+  {
+    "id": "rob_taylor@codurance.com",
+    "name": "Robert Taylor",
+    "avatar": "https://codurance.com/assets/custom/img/team/rob_taylor.jpg",
+    "title": "Software Craftsman",
+    "description": "Co-founder of the open-source Android MVVM framework 'Robobinding'.",
+    "tags": [
+      "Android",
+      "MVVM",
+      "Robobinding"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "roberttaylor426"
+      }
+    ]
+  },
+  {
+    "id": "steve_lydford@codurance.com",
+    "name": "Steve Lydford",
+    "avatar": "https://codurance.com/assets/custom/img/team/steve_lydford.jpg",
+    "title": "Head of Professional Services",
+    "description": "Member of the Microsoft Azure Advisor's Group and the London Software Craftsmanship Community (LSCC).",
+    "tags": [
+      "C#",
+      "Scala",
+      "Java",
+      "Javascript",
+      "Typescript"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "stevelydford"
+      }
+    ]
+  },
+  {
+    "id": "guilia_mantuano@codurance.com",
+    "name": "Giulia Mantuano",
+    "avatar": "https://codurance.com/assets/custom/img/team/giulia_mantuano.jpg",
+    "title": " UX Craftswoman",
+    "description": "Product Strategy and User Experience Design for Conversational Interfaces and Internet of Things technologies.",
+    "tags": [
+      "javascript",
+      "reactjs",
+      "gatsby",
+      "nodejs",
+      "express"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "giuliamantuano"
+      }
+    ]
+  },
+  {
+    "id": "liam_griffin-jowett@codurance.com",
+    "name": "Liam Griffin-Jowett",
+    "avatar": "https://codurance.com/assets/custom/img/team/liam_griffin.jpg",
+    "title": "Software Engineer",
+    "description": "Focused on cloud-based .NET applications on Azure, but also interested in functional languages such as Haskell",
+    "country": "IN",
+    "tags": [
+      "C#",
+      "Rust",
+      "Haskell",
+      "Javascript",
+      "C++",
+      "Python",
+      "Shell"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "gryffskin"
+      }
+    ]
+  },
+  {
+    "id": "chris_jeffery@codurance.com",
+    "name": "Chris Jeffery",
+    "avatar": "https://codurance.com/assets/custom/img/team/chris_jeffery.jpg",
+    "title": "Software Craftsman",
+    "description": "Front end developer with more than five years of experience working both in startup and enterprise environments.",
+    "tags": [
+      "JavaScript",
+      "JQuery",
+      "CSS",
+      "SASS"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "Chris_Jeffery"
+      }
+    ]
+  },
+  {
+    "id": "francesco_gigli@codurance.com",
+    "name": "Francesco Gigli",
+    "avatar": "https://codurance.com/assets/custom/img/team/francesco_gigli.jpg",
+    "title": "Software Craftsman",
+    "description": "DevOps, Self Organisation, and Software Craftsmanship",
+    "tags": [
+      "JavaScript",
+      "Java",
+      "C#",
+      "Python",
+      "Scala"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "jaramir"
+      }
+    ]
+  },
+  {
+    "id": "luciano_palma@codurance.com",
+    "name": "Luciano Palma",
+    "avatar": "https://codurance.com/assets/custom/img/team/luciano_palma.jpg",
+    "title": "Software Craftsperson",
+    "description": "Functional and Object-Oriented Programming",
+    "tags": [
+      "JavaScript",
+      "Haskell",
+      "Java",
+      "Shell"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "pspluciano"
+      }
+    ]
+  },
+  {
+    "id": "jorge.gueorguiev@codurance.com",
+    "name": "Jorge Gueorguiev Garcia",
+    "avatar": "https://codurance.com/assets/custom/img/team/jorge_gueorguiev.jpg",
+    "title": "Software Craftsperson",
+    "description": "C# and .Net, JVM stack",
+    "country": "US",
+    "tags": [
+      "angular",
+      "django",
+      "node",
+      "typescript",
+      "javascript"
+    ],
+    "channels": [
+      {
+        "type": "email",
+        "id": "jorge.gueorguiev@codurance.com"
+      },
+      {
+        "type": "linkedin",
+        "id": "jgueorguiev"
+      },
+      {
+        "type": "twitter",
+        "id": "yefoakira"
+      }
+    ]
+  },
+  {
+    "id": "richard_wild@codurance.com",
+    "name": "Richard Wild",
+    "avatar": "https://codurance.com/assets/custom/img/team/richard_wild.jpg",
+    "title": "Software Craftsman",
+    "description": "Apprenticed for many years grinding data on Oracle databases, picking up C, Java, C# and other languages along the way.",
+    "tags": [
+      "Clojure",
+      "C",
+      "Java",
+      "Erlang",
+      "Rust",
+      "Java",
+      "JavaScript",
+      "Shell"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "richardjwild"
+      }
+    ]
+  },
+  {
+    "id": "christina_ripley-gonzalez@codurance.com",
+    "name": "Christina Ripley-Gonzalez",
+    "avatar": "https://codurance.com/assets/custom/img/team/christina_ripley.jpg",
+    "title": "Software Engineer",
+    "description": "Software developer and team leader in the .NET ecosystem",
+    "tags": [
+      "C#",
+      "Java"
+    ],
+    "channels": [
+      
+    ]
+  },
+  {
+    "id": "neil_kidd@codurance.com",
+    "name": "Neil Kidd",
+    "avatar": "https://codurance.com/assets/custom/img/team/neil_kidd.jpg",
+    "title": "Software Craftsman",
+    "description": "Software developer and team leader in .NET ecosystem",
+    "tags": [
+      "C#"
+    ],
+    "channels": [
+      
+    ]
+  },
+  {
+    "id": "terry_balfour@codurance.com",
+    "name": "Terry Balfour",
+    "avatar": "https://codurance.com/assets/custom/img/team/terry_balfour.jpg",
+    "title": "Product Owner/Business Analyst",
+    "description": "Product Owner/Business Analyst who has over fifteen years’ experience of delivering software projects.",
+    "tags": [
+      "Product Management"
+    ],
+    "channels": [
+      
+    ]
+  },
+  {
+    "id": "sandro_villjoen@codurance.com",
+    "name": "Sandro Viljoen",
+    "avatar": "https://codurance.com/assets/custom/img/team/sandro_viljoen.jpg",
+    "title": "Software Craftsperson",
+    "description": "Pragmatic, efficient and happy to help😀. Focus on one thing at the time🤓.",
+    "country": "ES",
+    "tags": [
+      "Javascript",
+      "Java",
+      "Typescript",
+      "Python"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "ggsbv"
+      }
+    ]
+  },
+  {
+    "id": "tony_georgiadis@codurance.com",
+    "name": "Tony Georgiadis",
+    "avatar": "https://codurance.com/assets/custom/img/team/tony_georgiadis.jpg",
+    "title": "Software Craftsperson",
+    "description": "Proud Software Craftsman, passionate clean coder and Code Kata fanatic!",
+    "country": "IN",
+    "tags": [
+      "Javascript",
+      "Python",
+      "C#"
+    ],
+    "channels": [
+      
+    ]
+  },
+  {
+    "id": "keith_smale@codurance.com",
+    "name": "Keith Smale",
+    "avatar": "https://codurance.com/assets/custom/img/team/keith_smale.jpg",
+    "title": "Business Analyst/Product Owner",
+    "description": "Digital product development financial services sector and also has experience working in operational teams.",
+    "tags": [
+      "Product Management"
+    ],
+    "channels": [
+    ]
+  },
+  {
+    "id": "lau_llobet@codurance.com",
+    "name": "Lau Llobet",
+    "avatar": "https://codurance.com/assets/custom/img/team/lau_llobet.jpg",
+    "title": "Software Craftsman",
+    "description": "Programmer who loves to learn and investigate, good naming and being meticulous.",
+    "tags": [
+      "Java"
+    ],
+    "channels": [
+      
+    ]
+  }
+]
